@@ -1,18 +1,46 @@
-### Hi there 👋
+# 👋 Hi, I'm Diaa Hassan
 
-<!--
-**DiaaEldinHassan/DiaaEldinHassan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Frontend Developer** focused on building responsive, accessible, and visually engaging user interfaces with **React**. I also have experience working with **Flutter** for cross-platform mobile development and a strong interest in **IoT (Internet of Things)** technologies.
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+- ⚛️ React, Next.js
+- 🧱 HTML5, CSS3, Bootstrap
+- 🛠️ JavaScript (ES6+)
+- 📦 React Query
 
 
-Here are some ideas to get you started:
+### Mobile
+- 📱 Flutter (Dart)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![text](https://github.com/DiaaEldinHassan/DiaaEldinHassan/assets/102254510/4a85d534-0a7f-44f9-868b-e33b79796608)
+### IoT
+- 🔌 Arduino
+
+### Tools & DevOps
+- 🔧 Git, GitHub
+- 🚀 Vite
+- 🖥️ VS Code, Postman
+
+---
+
+## 📈 Currently Working On
+
+- Improving performance and UX in large-scale React apps
+
+
+---
+
+## 📫 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/diaa-eldin-hassan-989702280/)
+- 💻 [GitHub](https://github.com/DiaaEldinHassan)
+- 📧 diaahassan777@gmail.com
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
+Thanks for visiting my profile! 🚀
